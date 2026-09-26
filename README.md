@@ -16,3 +16,5 @@ Use the included Kubernetes manifests to deploy to your cluster.
 *Property of ghostblue058.*
 
 - Automated update for PR #1-1790399889-352
+
+- Automated update for PR #25-1790413575-393
